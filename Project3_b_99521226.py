@@ -37,3 +37,5 @@ for i in range(len(y_test)):
     res = sum / len(y_test)
 
 print(res) 
+
+
